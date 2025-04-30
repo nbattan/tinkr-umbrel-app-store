@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: tinkr-pandacoind
+name: Pandacoin daemon
+tagline: Honest and fair cryptocurrency for everyone
+icon: https://pandacoin.tech/img/logo-white.png  
+category: Cryptocurrency
+version: "4.11.x"
+port: 4000
+description: >-
+  Pandacoin (PND) is a decentralised, peer-to-peer digital cryptocurrency. It is an environmentally friendly coin that aims to become universally adopted through its fairness, honesty, and sustainability.
+
+  Pandacoin originally launched back in 2014 as a Proof-of-Work fork of Dogecoin that transitioned to Proof-of-Stake three months later. As of May 17, 2021, Pandacoin performed a network upgrade that turned the project into a Proof-of-Work, Proof-of-Stake hybrid blockchain. Pandacoin is an independent blockchain with a focus on digital currency and Smart Contracts. To deal with the inflationary nature of both Proof-of-Work and Proof-of-Stake, transactions on Pandacoin feature a 100% burn rate, serving as a counter to inflation.
+
+  Pandacoin launched with no premine, and no ICO. Remaining true to the core values of cryptocurrency as a decentralised alternative to traditional finance.
+
+developer: DigitalPandacoin
+website: https://pandacoin.tech/
+submitter: nbattan
+submission: 
+repo: 
+support: 
+gallery:
+releaseNotes: >-
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
