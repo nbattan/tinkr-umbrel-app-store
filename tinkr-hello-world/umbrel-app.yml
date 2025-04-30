@@ -1,7 +1,7 @@
 manifestVersion: 1
 id: tinkr-hello-world
 name: Hello World
-tagline: This would be a "Hello, World!"" app, if I had a Docker image for one
+tagline: This would be a "Hello, World!" app, if I had a Docker image for one
 icon: https://static.thenounproject.com/png/maintenance-icon-5005583-512.png  
 category: Development
 version: "1.0.0"
