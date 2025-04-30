@@ -1,8 +1,10 @@
 manifestVersion: 1
-id: tinkr-pandacoind
-name: Pandacoin daemon
+id: tinkr-pandacoin
+implements:
+  - pandacoin
+name: Pandacoin
 tagline: Honest and fair cryptocurrency for everyone
-icon: https://pandacoin.tech/img/logo-white.png  
+icon: https://github.com/DigitalPandacoin/pandacoin/blob/release-0.11/share/pixmaps/pandacoin256.png?raw=true  
 category: Cryptocurrency
 version: "4.11.x"
 port: 4000
