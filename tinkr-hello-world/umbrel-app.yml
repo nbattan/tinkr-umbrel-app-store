@@ -1,8 +1,8 @@
 manifestVersion: 1
-id: sparkles-hello-world
+id: tinkr-hello-world
 name: Hello World
 tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+icon: https://static.thenounproject.com/png/maintenance-icon-5005583-512.png  
 category: Development
 version: "1.0.0"
 port: 4000
@@ -12,12 +12,12 @@ description: >-
 
   You can also add newlines!
 
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: nbattan
+website: https://tinkr.link
+submitter: nbattan
+submission: https://github.com/nbattan/tinkr-hello-world-app
+repo: https://github.com/nbattan/tinkr-hello-world-app
+support: https://github.com/nbattan/tinkr-hello-world-app/issues
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
